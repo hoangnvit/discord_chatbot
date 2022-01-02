@@ -1,0 +1,32 @@
+The Bot will read the message from user then decide what the information user need base on the  first keyword of the message. after that, the bot connect API get data and send message that includes data to channel.
+
+command 1:
+	format:  business phonenumber
+	this command will search the business base on their phone number
+	example: business_by_phone +14159083801
+
+command 2:
+	format:  business_by_geo latitutue longitude numberOfBusiness
+	this command will search the business base on their geolocation then return the number of businesses as user expected 
+	example: business_by_geo 37.767413217936834 -122.42820739746094 3
+
+command 3:
+	format:  event_featured latitude longitude
+	this command will return the list of featured events base on the geolocation user inputted
+	example: event_featured 37.8112634 -122.2659978
+
+command 4:
+	format:  transaction typeOfTransaction latitude longitude
+	this command will returns a list of businesses which support food delivery transactions base on the geolocation inputted
+	example: transaction delivery 37.787789124691 -122.399305736113
+
+
+command 5:
+	format:  age name country
+	this command will return the age of a person base on the name and country
+	example: age Anthony US
+
+command 6:
+	format:  activity typeOFActivity numberOfParticipants
+	this command will suggest the activity for user base the type of activity and the number of participants
+	example: activity social 4

@@ -1,0 +1,165 @@
+Anthony48 — Today at 12:48 AM
+TEST COMMANDS
+[12:48 AM]
+Van Hoang Nguyen-000763153
+[12:49 AM]
+business_by_phone +14159083801
+
+@Anthony48
+business_by_phone +14159083801
+
+discordbot
+BOT
+ — Today at 12:49 AM
+1 businesses founded
+
+@Anthony48
+business_by_phone +14159083801
+
+discordbot
+BOT
+ — Today at 12:49 AM
+Yelp
+            140 New Montgomery St city: San Francisco country: US Postal code: 94105
+
+Anthony48 — Today at 12:50 AM
+TEST COMMAND 2
+[12:52 AM]
+business_by_geo 37.767413217936834 -122.42820739746094 3
+
+@Anthony48
+business_by_geo 37.767413217936834 -122.42820739746094 3
+
+discordbot
+BOT
+ — Today at 12:52 AM
+3 businesses founded!
+
+@Anthony48
+business_by_geo 37.767413217936834 -122.42820739746094 3
+
+discordbot
+BOT
+ — Today at 12:52 AM
+Bi-Rite Creamery
+            3692 18th St city: San Francisco country: US Postal code: 94110
+
+        Tartine Bakery
+            600 Guerrero St city: San Francisco country: US Postal code: 94110
+
+        Liholiho Yacht Club
+            3560 18th St city: San Francisco country: US Postal code: 94110
+==========================================================
+TEST COMMAND 3
+event_featured 37.8112634 -122.2659978
+discordbot
+BOT
+ — Today at 12:54 AM
+Event founded: Yelp's Vegan Passport 
+
+       will be hold  in: 2021-10-01T00:00:00-07:00at  East Bay US
+===================================================================
+Anthony48 — Today at 12:55 AM
+TEST COMMAND 4
+[12:57 AM]
+transaction delivery 37.787789124691 -122.399305736113
+
+@Anthony48
+transaction delivery 37.787789124691 -122.399305736113
+
+discordbot
+BOT
+ — Today at 12:57 AM
+48 businesses founded!
+
+@Anthony48
+transaction delivery 37.787789124691 -122.399305736113
+
+discordbot
+BOT
+ — Today at 12:57 AM
+North India Restaurant
+        123 Second St city: San Francisco country: US Postal code: 94105
+
+    Amsterdam Café
+        930 Geary St city: San Francisco country: US Postal code: 94109
+
+    Soma Pizza & Grill
+        483 3rd St city: San Francisco country: US Postal code: 94107
+
+    Red Chilli
+        522 Jones St city: San Francisco country: US Postal code: 94102
+
+    Fresco Pizza Shawarma
+        1338 Polk St city: San Francisco country: US Postal code: 94109
+
+    Paris Pizza
+        448 Broadway St city: San Francisco country: US Postal code: 94133
+
+    Fish N Gari
+        1718 Polk St city: San Francisco country: US Postal code: 94109
+
+    Chico's Pizza
+        131 6th St city: San Francisco country: US Postal code: 94103
+
+    Elaine's Kitchen
+        434 Broadway St city: San Francisco country: US Postal code: 94133
+
+    Mehfil Indian Cuisine
+        88 2nd St city: San Francisco country: US Postal code: 94105
+
+    Milan Pizza
+        606 Geary St city: San Francisco country: US Postal code: 94102
+
+    Modern Thai
+        1247 Polk St city: San Francisco country: US Postal code: 94109
+
+    Nobhill Pizza & Shawarma
+        1534 California St city: San Francisco country: US Postal code: 94109
+
+    Chicos Pizza
+        468 Ellis St city: San Francisco country: US Postal code: 94102
+
+    Supreme Pizza
+        3348 18th St city: San Francisco country: US Postal code: 94110
+
+    Big Lantern
+        3170 16th St city: San Francisco country: US Postal code: 94103
+
+    Bamboo Restaurant
+        1441 Polk St city: San Francisco country: US Postal code: 94109
+
+    Dijon Burger
+        1428 Polk St city: San Francisco country: US Postal code: 94109
+
+    Tandoori Mahal
+        941 Kearny St city: San Francisco country: US Postal code: 94133
+
+    Sutter Pub & Restaurant
+        700 Sutter St city: San Francisco country: US Postal code: 94102
+=========================================================================
+Anthony48 — Today at 12:58 AM
+TEST COMMAND 5
+[12:59 AM]
+age Anthony US
+
+@Anthony48
+age Anthony US
+
+discordbot
+BOT
+ — Today at 12:59 AM
+ANTHONY From US 71 years old!
+===========================================================================
+Anthony48 — Today at 12:59 AM
+TEST COMMAND 6
+[1:00 AM]
+activity social 4
+
+@Anthony48
+activity social 4
+
+discordbot
+BOT
+ — Today at 1:00 AM
+You should take part in ' Invite some friends over for a game night '. There are  4 for total. The price:  0$
