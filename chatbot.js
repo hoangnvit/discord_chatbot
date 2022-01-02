@@ -16,7 +16,7 @@ let yelpAPI = require('yelp-api');
 const axios = require('axios');
 
 // Create a new yelpAPI object with *your* API key
-let apiKey = 'JZribe-BK6cdIfBstkHfqVAjLviLY8aX0PqmD3X5kAFE2kWwwjOVyVLSUjWDzqve5SEfK3cY3YAa6ZpCdVkqIMOn1gZy6ZqNyQASXoe2dCXqyBEH90h5oLMWJcdbYXYx';
+let apiKey = 'your key';
 
 let yelp = new yelpAPI(apiKey);
 
@@ -187,4 +187,4 @@ client.on('messageCreate', async message => {
 })
 
 // logs in the bot to the channel
-client.login("ODk0NDg5ODIxOTk1NzUzNTAy.YVqwkA.e8XAIfjWlsoD-xDqc_BriwSMCP4");
+client.login("YOUR KEY HERE");
